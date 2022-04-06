@@ -1,6 +1,7 @@
-/**
+/*
  * V13 handlers example made by Reevenge#0001 (https://discord.com/users/796056613474533378)
- * 
+ * Reevenge#7651 (https://discord.com/users/880191294977212477)
+ *
  * You can use npmjs.com/uuid to geterate UUIDs for buttons and selects.
  * Example for how I used it in the coins bot (/codes command):
   let ButtonsUUID = uuidv4();
